@@ -7,3 +7,4 @@ OPP Profile Added
 
 Bug Fixes:
 Fixed BT On-Off Stability Issue
+Fixed A2DP Audio Break Issue
