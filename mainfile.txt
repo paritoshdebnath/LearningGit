@@ -1,1 +1,3 @@
 I am starting...
+
+Bluetooth enabled
