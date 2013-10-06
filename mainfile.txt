@@ -3,3 +3,4 @@ I am starting...
 Bluetooth enabled
 
 A2DP Profile Added
+OPP Profile Added
