@@ -4,3 +4,6 @@ Bluetooth enabled
 
 A2DP Profile Added
 OPP Profile Added
+
+Bug Fixes:
+Fixed BT On-Off Stability Issue
